@@ -1,0 +1,14 @@
+C:\Users\block\Downloads\CSHARP\Guess the Thing\bin\Debug\net7.0\Guess the Thing.exe
+C:\Users\block\Downloads\CSHARP\Guess the Thing\bin\Debug\net7.0\Guess the Thing.deps.json
+C:\Users\block\Downloads\CSHARP\Guess the Thing\bin\Debug\net7.0\Guess the Thing.runtimeconfig.json
+C:\Users\block\Downloads\CSHARP\Guess the Thing\bin\Debug\net7.0\Guess the Thing.dll
+C:\Users\block\Downloads\CSHARP\Guess the Thing\bin\Debug\net7.0\Guess the Thing.pdb
+C:\Users\block\Downloads\CSHARP\Guess the Thing\obj\Debug\net7.0\Guess the Thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\block\Downloads\CSHARP\Guess the Thing\obj\Debug\net7.0\Guess the Thing.AssemblyInfoInputs.cache
+C:\Users\block\Downloads\CSHARP\Guess the Thing\obj\Debug\net7.0\Guess the Thing.AssemblyInfo.cs
+C:\Users\block\Downloads\CSHARP\Guess the Thing\obj\Debug\net7.0\Guess the Thing.csproj.CoreCompileInputs.cache
+C:\Users\block\Downloads\CSHARP\Guess the Thing\obj\Debug\net7.0\Guess the Thing.dll
+C:\Users\block\Downloads\CSHARP\Guess the Thing\obj\Debug\net7.0\refint\Guess the Thing.dll
+C:\Users\block\Downloads\CSHARP\Guess the Thing\obj\Debug\net7.0\Guess the Thing.pdb
+C:\Users\block\Downloads\CSHARP\Guess the Thing\obj\Debug\net7.0\Guess the Thing.genruntimeconfig.cache
+C:\Users\block\Downloads\CSHARP\Guess the Thing\obj\Debug\net7.0\ref\Guess the Thing.dll
